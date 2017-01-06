@@ -1,0 +1,10 @@
+node_modules
+output.json
+outputRss.json
+outputTest.json
+scrape.zip
+npm-debug.log
+itunes.json
+itunestest.json
+final
+bulks
